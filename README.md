@@ -2,7 +2,7 @@
 
 **SIT Class & Asset Reservation**
 
-SCAR is a Java application planned for managing classroom and asset reservations at SIT. This repository currently contains the project structure and documentation foundation only; application functionality will be implemented in later work.
+SCAR is a Java application planned for managing classroom and asset reservations at SIT.
 
 ## Project structure
 
