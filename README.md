@@ -40,3 +40,12 @@ SCAR/
 ## Status
 
 Project structure only. No application implementation has been added yet.
+
+## Project Team
+- Beamlak Siraw Asmare
+- Getnet Tujuba Ararsa
+- Guluma Hailu Kitila
+- Miraj Abdenur Ahmed
+- Nardos Takele
+- Nathnael Ayizohibel Adamu 
+
