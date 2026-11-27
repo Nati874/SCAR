@@ -10,7 +10,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        Label label = new Label("SCAR Application Running");
+        Label label = new Label("SCAR Application Running. Test 1");
         Scene scene = new Scene(new StackPane(label), 600, 400);
 
         primaryStage.setTitle("SCAR");
